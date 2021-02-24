@@ -6,3 +6,5 @@ The objective of this project is to use the New York Times articles data and per
 •	Task 2: Word count for top 5 news category.
 </br>
 •	Task 3: List the top 10 words that are shared among the highest number of news articles of the same category.
+</br>
+The link to the dataset is: https://www.kaggle.com/nzalake52/new-york-times-articles
