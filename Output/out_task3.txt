@@ -1,0 +1,392 @@
+Category: /education/
+Word:students   Count:284
+Word:said   Count:164
+Word:college   Count:140
+Word:education   Count:126
+Word:university   Count:93
+Word:colleges   Count:70
+Word:student   Count:63
+Word:school   Count:61
+Word:year   Count:59
+Word:percent   Count:58
+
+
+
+Category: /jobs/
+Word:work   Count:56
+Word:one   Count:50
+Word:job   Count:46
+Word:like   Count:44
+Word:people   Count:30
+Word:time   Count:29
+Word:jobs   Count:27
+Word:m   Count:25
+Word:new   Count:25
+Word:re   Count:24
+
+
+
+Category: /us/
+Word:mr   Count:13513
+Word:said   Count:11080
+Word:trump   Count:6039
+Word:clinton   Count:3173
+Word:people   Count:2525
+Word:state   Count:2452
+Word:one   Count:2359
+Word:republican   Count:2113
+Word:mrs   Count:2105
+Word:campaign   Count:1928
+
+
+
+Category: /technology/
+Word:said   Count:1248
+Word:mr   Count:809
+Word:company   Count:770
+Word:apple   Count:639
+Word:facebook   Count:630
+Word:google   Count:626
+Word:like   Count:615
+Word:new   Count:597
+Word:people   Count:558
+Word:technology   Count:553
+
+
+
+Category: /style/
+Word:said   Count:225
+Word:mr   Count:178
+Word:ms   Count:159
+Word:design   Count:137
+Word:new   Count:113
+Word:like   Count:93
+Word:one   Count:80
+Word:com   Count:74
+Word:may   Count:63
+Word:furniture   Count:59
+
+
+
+Category: /universal/
+Word:더   Count:83
+Word:수   Count:80
+Word:있는   Count:64
+Word:있다   Count:63
+Word:다른   Count:43
+Word:그   Count:39
+Word:이   Count:38
+Word:하지만   Count:34
+Word:한   Count:33
+Word:것이다   Count:29
+
+
+
+Category: /insider/
+Word:times   Count:578
+Word:mr   Count:365
+Word:new   Count:300
+Word:one   Count:231
+Word:york   Count:223
+Word:insider   Count:200
+Word:said   Count:172
+Word:news   Count:141
+Word:story   Count:136
+Word:time   Count:131
+
+
+
+Category: /arts/
+Word:mr   Count:3155
+Word:said   Count:2953
+Word:new   Count:1821
+Word:like   Count:1545
+Word:one   Count:1473
+Word:ms   Count:1341
+Word:art   Count:1245
+Word:music   Count:1221
+Word:show   Count:1139
+Word:also   Count:994
+
+
+
+Category: /nyregion/
+Word:said   Count:6216
+Word:mr   Count:5667
+Word:new   Count:2472
+Word:city   Count:1808
+Word:one   Count:1543
+Word:york   Count:1542
+Word:ms   Count:1507
+Word:year   Count:1162
+Word:two   Count:1078
+Word:state   Count:1077
+
+
+
+Category: /world/
+Word:said   Count:9762
+Word:mr   Count:7921
+Word:government   Count:2684
+Word:people   Count:2418
+Word:one   Count:2386
+Word:world   Count:2126
+Word:united   Count:1969
+Word:also   Count:1827
+Word:two   Count:1677
+Word:state   Count:1623
+
+
+
+Category: /t-magazine/
+Word:says   Count:403
+Word:like   Count:349
+Word:one   Count:349
+Word:new   Count:310
+Word:art   Count:249
+Word:magazine   Count:222
+Word:2016   Count:218
+Word:com   Count:210
+Word:http   Count:198
+Word:www   Count:198
+
+
+
+Category: /theater/
+Word:theater   Count:638
+Word:said   Count:609
+Word:mr   Count:568
+Word:broadway   Count:517
+Word:show   Count:514
+Word:new   Count:444
+Word:ms   Count:382
+Word:musical   Count:376
+Word:play   Count:341
+Word:hamilton   Count:304
+
+
+
+Category: /upshot/
+Word:mr   Count:659
+Word:trump   Count:565
+Word:percent   Count:556
+Word:voters   Count:413
+Word:people   Count:386
+Word:one   Count:368
+Word:clinton   Count:339
+Word:even   Count:318
+Word:new   Count:307
+Word:like   Count:305
+
+
+
+Category: /your-money/
+Word:said   Count:610
+Word:money   Count:241
+Word:mr   Count:228
+Word:one   Count:208
+Word:people   Count:185
+Word:financial   Count:169
+Word:like   Count:162
+Word:percent   Count:157
+Word:may   Count:150
+Word:new   Count:146
+
+
+
+Category: /dining/
+Word:said   Count:523
+Word:mr   Count:477
+Word:com   Count:399
+Word:like   Count:381
+Word:recipe   Count:376
+Word:new   Count:366
+Word:food   Count:313
+Word:cooking   Count:276
+Word:restaurant   Count:269
+Word:one   Count:265
+
+
+
+Category: /sports/
+Word:said   Count:8375
+Word:game   Count:4497
+Word:first   Count:3809
+Word:two   Count:3510
+Word:one   Count:3324
+Word:team   Count:3072
+Word:season   Count:2667
+Word:last   Count:2559
+Word:year   Count:2340
+Word:time   Count:2281
+
+
+
+Category: /fashion/
+Word:said   Count:2352
+Word:mr   Count:1982
+Word:fashion   Count:1372
+Word:ms   Count:1343
+Word:new   Count:1340
+Word:like   Count:1060
+Word:one   Count:1008
+Word:york   Count:777
+Word:com   Count:751
+Word:also   Count:701
+
+
+
+Category: /movies/
+Word:mr   Count:908
+Word:said   Count:642
+Word:film   Count:619
+Word:movie   Count:374
+Word:like   Count:357
+Word:ms   Count:331
+Word:movies   Count:327
+Word:one   Count:304
+Word:new   Count:237
+Word:films   Count:225
+
+
+
+Category: /books/
+Word:book   Count:282
+Word:books   Count:229
+Word:new   Count:216
+Word:said   Count:211
+Word:novel   Count:182
+Word:like   Count:163
+Word:one   Count:160
+Word:mr   Count:151
+Word:review   Count:126
+Word:time   Count:111
+
+
+
+Category: /business/
+Word:said   Count:6736
+Word:mr   Count:6147
+Word:company   Count:3203
+Word:percent   Count:2863
+Word:new   Count:2258
+Word:business   Count:2247
+Word:year   Count:2124
+Word:million   Count:1860
+Word:one   Count:1809
+Word:also   Count:1773
+
+
+
+Category: /magazine/
+Word:one   Count:893
+Word:like   Count:746
+Word:said   Count:619
+Word:people   Count:582
+Word:trump   Count:485
+Word:new   Count:478
+Word:time   Count:435
+Word:even   Count:414
+Word:told   Count:399
+Word:also   Count:387
+
+
+
+Category: /nytnow/
+Word:_____   Count:609
+Word:briefing   Count:406
+Word:6   Count:260
+Word:trump   Count:239
+Word:m   Count:235
+Word:said   Count:232
+Word:want   Count:186
+Word:evening   Count:170
+Word:mr   Count:164
+Word:one   Count:160
+
+
+
+Category: /automobiles/
+Word:said   Count:65
+Word:car   Count:45
+Word:like   Count:43
+Word:vehicles   Count:40
+Word:side   Count:36
+Word:drive   Count:34
+Word:driver   Count:33
+Word:new   Count:32
+Word:wheel   Count:31
+Word:2016   Count:30
+
+
+
+Category: /health/
+Word:said   Count:718
+Word:dr   Count:410
+Word:health   Count:341
+Word:people   Count:221
+Word:one   Count:196
+Word:percent   Count:185
+Word:women   Count:166
+Word:zika   Count:165
+Word:many   Count:148
+Word:patients   Count:147
+
+
+
+Category: /pageoneplus/
+Word:article   Count:544
+Word:nytimes   Count:432
+Word:com   Count:358
+Word:1   Count:315
+Word:misstated   Count:292
+Word:may   Count:272
+Word:e   Count:215
+Word:new   Count:167
+Word:last   Count:155
+Word:public   Count:149
+
+
+
+Category: /science/
+Word:said   Count:1029
+Word:dr   Count:735
+Word:one   Count:370
+Word:like   Count:363
+Word:new   Count:328
+Word:science   Count:274
+Word:years   Count:265
+Word:scientists   Count:255
+Word:also   Count:233
+Word:mr   Count:228
+
+
+
+Category: /realestate/
+Word:said   Count:1348
+Word:mr   Count:699
+Word:new   Count:573
+Word:two   Count:543
+Word:one   Count:519
+Word:house   Count:489
+Word:square   Count:450
+Word:city   Count:440
+Word:000   Count:436
+Word:building   Count:426
+
+
+
+Category: /travel/
+Word:one   Count:532
+Word:said   Count:471
+Word:like   Count:406
+Word:travel   Count:392
+Word:new   Count:367
+Word:hotel   Count:335
+Word:city   Count:325
+Word:two   Count:324
+Word:com   Count:322
+Word:also   Count:269
+
+
+
